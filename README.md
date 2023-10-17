@@ -1,7 +1,10 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: Oct. 17th
+- Facilitator: KapfHammer
+- Name: Elias Richards
+
+_I am so tired right now_
 
 ## Class Resources
 
